@@ -1,11 +1,11 @@
-About r-rpmm
-============
+About r-rpmm-feedstock
+======================
+
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-rpmm-feedstock/blob/main/LICENSE.txt)
 
 Home: https://CRAN.R-project.org/package=RPMM
 
 Package license: GPL-2.0-or-later
-
-Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-rpmm-feedstock/blob/main/LICENSE.txt)
 
 Summary:  Recursively Partitioned Mixture Model for Beta and Gaussian Mixtures.   This is a model-based clustering algorithm that returns a hierarchy of classes, similar to hierarchical clustering, but also similar to finite mixture models.
 
